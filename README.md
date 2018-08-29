@@ -14,5 +14,5 @@
       - res folder for lcov result
       - Docs folder for doxygen result
       - valgrind_output for valgrind result
-      - err.txt for cppcheck result
+      - cppcheckCaseStudy.png, err.txt for cppcheck result
   
